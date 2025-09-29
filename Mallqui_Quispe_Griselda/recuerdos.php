@@ -8,7 +8,7 @@
 <body>
 
   <header>
-    <h1>📸 Mis Recuerdos</h1>
+    <h1>Mis Recuerdos</h1>
     <nav>
       <a href="index.html">Inicio</a>
     </nav>
@@ -26,4 +26,5 @@
   </footer>
 
 </body>
+
 </html>
